@@ -1,5 +1,5 @@
 {
-    "name": "fzaninotto/faker",
+    "name": "theskillpedia/faker",
     "type": "library",
     "description": "Faker is a PHP library that generates fake data for you.",
     "keywords": [
@@ -21,12 +21,12 @@
         }
     ],
     "require": {
-        "php": "^7.2"
+        "php": "^8.0"
     },
     "require-dev": {
         "ext-intl": "*",
         "dealerdirect/phpcodesniffer-composer-installer": "~0.7.1",
-        "phpunit/phpunit": "^8.5.8",
+        "phpunit/phpunit": "^9.0",
         "slevomat/coding-standard": "^6.4.1",
         "squizlabs/php_codesniffer": "^3.5.8"
     },
